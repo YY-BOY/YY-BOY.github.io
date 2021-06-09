@@ -2,105 +2,63 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://YY-BOY.github.io/about/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/</loc>
+    <lastmod>2021-06-09T17:52:13+08:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://yy-boy.github.io/tags/</loc>
+    <lastmod>2021-06-09T17:52:13+08:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/contact/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://yy-boy.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
+    <lastmod>2021-06-09T17:52:13+08:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/search/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/test-in-chinese/</loc>
+    <lastmod>2021-06-09T17:52:13+08:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
+    <loc>https://yy-boy.github.io/</loc>
+    <lastmod>2021-06-09T17:52:13+08:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/categories/android-and-gaming/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/my-hard-post/</loc>
+    <lastmod>2021-06-09T17:42:00+08:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/categories/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/tags/drink/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/tags/game/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/tags/interesting/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/categories/go-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/ninth/</loc>
+    <lastmod>2018-10-07T11:40:14+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-1/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/eighth/</loc>
+    <lastmod>2018-10-07T11:40:11+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-10/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/seventh/</loc>
+    <lastmod>2018-10-07T11:39:29+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-11/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/sixth/</loc>
+    <lastmod>2018-10-07T11:39:25+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-12/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/fifth/</loc>
+    <lastmod>2018-10-07T11:39:22+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-13/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/fourth/</loc>
+    <lastmod>2018-10-07T11:39:16+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-2/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/third/</loc>
+    <lastmod>2018-10-07T11:39:13+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-3/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/second/</loc>
+    <lastmod>2018-10-07T11:39:10+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-4/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/blog/my-first-post/</loc>
+    <lastmod>2018-10-07T11:17:14+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-5/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/static/imprint/</loc>
+    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-6/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
+    <loc>https://yy-boy.github.io/static/</loc>
+    <lastmod>2018-10-07T11:12:00+02:00</lastmod>
   </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-7/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-8/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/blog/post-9/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/tags/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/categories/html/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/categories/html-css/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/tags/new/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/tags/photos/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/categories/programming-language/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/tags/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/categories/python/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/tags/react/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/tags/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/categories/web-design/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url><url>
-    <loc>https://YY-BOY.github.io/blog/test/</loc>
+    <loc>https://yy-boy.github.io/categories/</loc>
   </url>
 </urlset>

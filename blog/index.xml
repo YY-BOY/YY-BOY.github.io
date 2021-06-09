@@ -1,138 +1,112 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog on 國考仔時光屋</title>
-    <link>https://YY-BOY.github.io/blog/</link>
-    <description>Recent content in blog on 國考仔時光屋</description>
+    <title>Blogs on 小劇場實驗室</title>
+    <link>https://yy-boy.github.io/blog/</link>
+    <description>Recent content in Blogs on 小劇場實驗室</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://YY-BOY.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>YY Lab - All rights reserved</copyright>
+    <lastBuildDate>Wed, 09 Jun 2021 17:52:13 +0800</lastBuildDate><atom:link href="https://yy-boy.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-1/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>中文測試文章</title>
+      <link>https://yy-boy.github.io/blog/test-in-chinese/</link>
+      <pubDate>Wed, 09 Jun 2021 17:52:13 +0800</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-1/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/test-in-chinese/</guid>
+      <description>自我認同危機 — 醫院中的憂鬱少年 自我認同危機 — 醫院中的憂鬱少年 心理學家艾瑞克森Erik Erikson的心理社會發展理論(Psychosocial development theory)，認為人的一生會經歷八個「發展危機」(developmental crisis)，而每個階段的「發展任務」(developmental task)就是嘗試解決當前的「發展危機」，順利解決後，才會朝向健康的人格發展。 困惑：你是來學習，還是來工作，或是混文憑的？ 啊我怎麼知道，這一年在各科遇到各品種的醫師及學長姐，每個人的耳提面命都不一樣。 「阿，學弟這個東西太專科了，以後走我們科的話再研究吧」 好的，然後同樣的東西在別科遇到可以變成： 「蛤？連這個都不知道喔，那你們在醫院幹嘛的？」 「來外科就是要在手術室學習啊」 然後在刀房角落站了一天學習罰站 「1053需要換藥喔～」阿姨的傷口快拆線了，但洗澡時不小心噴到水 「學弟等等2個New Pa你去接一下」打完病歷後看見學姊在休息室聊天吃東西 「一定是系統的問題」，我總是這麼對自己說 畢竟一下要學習、一下要打雜，努力當個認真的學生…好辛苦： 要在彷如玄學佈道的晨會上努力睜開(裝作在發光的)眼睛； 要巧妙穿梭在護理站，貪婪尋求臨床上一絲學習機會； 要積極、要進攻、要爭取、要…… 有時會羨慕牙醫同學或末代Intern，一天下來可能還領個七八百元，可以在離開醫院時安慰自己至少賺到一些餐費及交通費。 反觀自己如果跟刀到天黑、隔天晨會要報告、晚上不巧又要家教時，心真的累… … 難怪有段期間我超愛聽Spotify上”Life sucks”這個播放清單</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-10/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>My Hard Post</title>
+      <link>https://yy-boy.github.io/blog/my-hard-post/</link>
+      <pubDate>Wed, 09 Jun 2021 17:42:00 +0800</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-10/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/my-hard-post/</guid>
+      <description>小劇場實驗室 紀錄那些框架下的選擇
+下面是第一張圖片
+可嗎？ 結果沒有圖片QQ</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-11/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Ninth</title>
+      <link>https://yy-boy.github.io/blog/ninth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:14 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-11/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/ninth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-12/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Eighth</title>
+      <link>https://yy-boy.github.io/blog/eighth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:40:11 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-12/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/eighth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Seventh</title>
+      <link>https://yy-boy.github.io/blog/seventh/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:29 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/seventh/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-2/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Sixth</title>
+      <link>https://yy-boy.github.io/blog/sixth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:25 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-2/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/sixth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-3/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Fifth</title>
+      <link>https://yy-boy.github.io/blog/fifth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:22 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-3/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/fifth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-4/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Fourth</title>
+      <link>https://yy-boy.github.io/blog/fourth/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:16 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-4/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/fourth/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-5/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Third</title>
+      <link>https://yy-boy.github.io/blog/third/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:13 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-5/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/third/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-6/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>Second</title>
+      <link>https://yy-boy.github.io/blog/second/</link>
+      <pubDate>Sun, 07 Oct 2018 11:39:10 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-6/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://yy-boy.github.io/blog/second/</guid>
+      <description>This is another post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
     <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-7/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      <title>My First Post</title>
+      <link>https://yy-boy.github.io/blog/my-first-post/</link>
+      <pubDate>Sun, 07 Oct 2018 11:17:14 +0200</pubDate>
       
-      <guid>https://YY-BOY.github.io/blog/post-7/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-8/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://YY-BOY.github.io/blog/post-8/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://YY-BOY.github.io/blog/post-9/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://YY-BOY.github.io/blog/post-9/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://YY-BOY.github.io/blog/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://YY-BOY.github.io/blog/test/</guid>
-      <description>hello 我是YY
-我 熱愛 讀國考(才怪)
- 醫學三  內科 家醫科    print(&amp;#34;hello&amp;#34;) print(&amp;#34;hello&amp;#34;) </description>
+      <guid>https://yy-boy.github.io/blog/my-first-post/</guid>
+      <description>This is my first post Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum.</description>
     </item>
     
   </channel>
